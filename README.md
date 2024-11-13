@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Saini</h1>
-<h3 align="center">A passionate Python Django developer from Nepal</h3>
+<h3 align="center">A passionate Web developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainithapamagar&label=Profile%20views&color=0e75b6&style=flat" alt="sainithapamagar" /> </p>
 
 - 🌱 I’m currently learning **Django REST Framework and Asp.Net Core**
 
-- 📫 How to reach me **magarprisu4747@gmail.com**
+- 📫 How to reach me **magarprisu4747@gmail.com** <a href="https://www.sainithapamagar.com.np">**or you can visit here**</a>
 
-- ⚡ Fun fact **I think or do I**
+- ⚡ Fun fact **Dale Steyn dominated the number one spot in the ICC Test rankings at the peak of his career, for a record 263 weeks between 2008 and 2014.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
