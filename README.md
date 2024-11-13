@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainithapamagar&label=Profile%20views&color=0e75b6&style=flat" alt="sainithapamagar" /> </p>
 
-- 🌱 I’m currently learning **Django REST Framework and React**
+- 🌱 I’m currently learning **Django REST Framework and Asp.Net Core**
 
 - 📫 How to reach me **magarprisu4747@gmail.com**
 
